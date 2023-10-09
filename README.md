@@ -1,10 +1,10 @@
-# Laravel Backend API for Mobile Market Apps
+# Laravel Backend API for Ekumfi Juice Apps
 
-This repository contains the Laravel backend API for a set of mobile market Android apps. The API serves three distinct types of apps:
-- [ProductTrader](https://github.com/cgardesey/ProductTrader)
-- [ProductTraderWholesaler](https://github.com/cgardesey/ProductTraderWholesaler)
-- [ProductTraderAgent](https://github.com/cgardesey/ProductTraderAgent)
-- [ProductTraderAdmin](https://github.com/cgardesey/ProductTraderAdmin)
+This repository contains the Laravel backend API for a set of Ekumfi Juice Android apps. The API serves three distinct types of apps:
+- [Ekumfi Juice Market App](https://github.com/cgardesey/EkumfiMarket)
+- [Ekumfi Juice Wholesaler App](https://github.com/cgardesey/EkumfiWholesaler)
+- [Ekumfi Juice Agent App](https://github.com/cgardesey/EkumfiAgent)
+- [Ekumfi Juice Admin App](https://github.com/cgardesey/EkumfiAdmin)
 
 ## Requirements
 
@@ -19,11 +19,11 @@ To run this Laravel backend API, you need to have the following software install
 
 - Clone this repository to your local machine:
    ```shell
-   git git@github.com:cgardesey/trader_apps_backend.git
+   git git@github.com:cgardesey/ekumfi_juice_backend.git
    
 - Change into the project directory:
    ```shell
-   cd trader_apps_backend
+   cd ekumfi_juice_backend
 - Install the project dependencies using Composer:
    ```shell
    Composer install
